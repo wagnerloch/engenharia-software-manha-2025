@@ -14,3 +14,7 @@ function saudacaoPessoal(nome) {
 saudacaoPessoal("Maria");
 saudacaoPessoal("João");
 saudacaoPessoal("Ana");
+
+for (let i = 0; i < 15; i++) {
+    saudacaoPessoal("Pessoa " + i);
+}
