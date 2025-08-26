@@ -15,6 +15,6 @@ saudacaoPessoal("Maria");
 saudacaoPessoal("João");
 saudacaoPessoal("Ana");
 
-for (let i = 0; i < 15; i++) {
+for (let i = 0; i < 10; i++) {
     saudacaoPessoal("Pessoa " + i);
 }
